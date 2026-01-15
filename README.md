@@ -3,6 +3,7 @@
 A applcation to organize your books in bookcases.
 
 * Ruby version : 3.4.7
+* Bundler version : 2.7.2
 * SQLite
 
 ## How to run the application
